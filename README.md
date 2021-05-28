@@ -1,10 +1,24 @@
-# revenuedemo
+# Flutter Grid View - Revenuedemo
 
-A new Flutter application.
+This is a flutter grid view demo app
+
+Just to show how to use implement grid view
+
+# Screenshoots
+
+This how the app looks like
+
+<img src="https://github.com/olawhizzy/FlutterGrid-Revenuedemo/blob/master/images/WhatsApp%20Image%202021-05-28%20at%2023.14.08.jpeg">
+
+<img src="https://github.com/olawhizzy/FlutterGrid-Revenuedemo/blob/master/images/WhatsApp%20Image%202021-05-28%20at%2023.14.08%20(1).jpeg">
+
+<img src="https://github.com/olawhizzy/FlutterGrid-Revenuedemo/blob/master/images/WhatsApp%20Image%202021-05-28%20at%2023.14.09.jpeg">
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is developed for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
